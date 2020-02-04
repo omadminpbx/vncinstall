@@ -1,1 +1,2 @@
-# vncinstall
+# Fast install of VNC Server 
+
